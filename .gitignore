@@ -1,0 +1,5 @@
+**/__pycache__
+chat_app/__pycache__
+home/__pycache__
+.vscode/
+venv/
